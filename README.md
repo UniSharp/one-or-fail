@@ -1,24 +1,12 @@
-# PHP Project Template
+# One Or Fail
 
-A PHP project template integration with PHPUnit, PHP CodeCoverage and PHP CodeSniffer.
+TBD ...
 
-[![Build Status](https://travis-ci.org/storyn26383/unit-test.svg?branch=master)](https://travis-ci.org/storyn26383/unit-test)
-[![Coverage Status](https://coveralls.io/repos/github/storyn26383/unit-test/badge.svg?branch=master)](https://coveralls.io/github/storyn26383/unit-test?branch=master)
+[![Build Status](https://travis-ci.org/UniSharp/one-or-fail.svg?branch=master)](https://travis-ci.org/UniSharp/one-or-fail)
+[![Coverage Status](https://coveralls.io/repos/github/UniSharp/one-or-fail/badge.svg?branch=master)](https://coveralls.io/github/UniSharp/one-or-fail?branch=master)
 
 ## Quick Start
 
 ### Installation
 
-```bash
-$ git clone https://github.com/storyn26383/unit-test.git
-
-$ cd unit-test
-
-$ make init
-`````
-
-### Run Test
-
-```bash
-$ make test
-```
+TBD ...
